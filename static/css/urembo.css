@@ -1,6 +1,6 @@
 ul{
     list-style-type: none;
-    background-color: blue;
+    background-color: #070909;
     overflow: hidden;
 }
 li{
@@ -8,12 +8,15 @@ float: left;
 
 }
 li,a{
-    padding: 10px;
+    padding: 5px;
     display: block;
     color: white;
     font-family: "DejaVu Sans";
-    font-size: 20px;
+    font-size: 10px;
 
+}
+h2,p{
+    text-align: center;
 }
 
 img{
